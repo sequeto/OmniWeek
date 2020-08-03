@@ -1,3 +1,3 @@
 # OmniWeek Be The Hero
 
-Projeto desenvolvido com ReactJS durante a semana Omnistack 11 promovido pela plataforma Rocketseat.
+Projeto desenvolvido com NodeJS e ReactJS durante a semana Omnistack 11 promovido pela plataforma Rocketseat.
